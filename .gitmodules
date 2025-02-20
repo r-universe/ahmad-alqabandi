@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ahmad-alqabandi/ahmad-alqabandi.r-universe.dev
 	branch = HEAD
+[submodule "stors"]
+	path = stors
+	url = https://github.com/ahmad-alqabandi/stors
